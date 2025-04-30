@@ -1,2 +1,15 @@
 # ProyectoFinal_App_MovilBus
-app movil bus
+
+# 📚 ProyectoFinal_App_MovilBus📚
+ 
+ 
+## 📘 Descripción general
+ 
+* app movil bus.
+ 
+## 📗 Información ️
+ 
+|||||||
+| -------- | -------- | -------- |
+| **CAMBIO** | **DESCRIPCION** | **AUTOR CAMBIO** |
+| Codificación diseño app  |Codificación diseño app | FOR ANALYTICS CLOUD |
