@@ -8,8 +8,7 @@
 * app movil bus.
  
 ## 📗 Información ️
- 
-|||||||
-| -------- | -------- | -------- |
-| **CAMBIO** | **DESCRIPCION** | **AUTOR CAMBIO** |
-| Codificación diseño app  |Codificación diseño app | FOR ANALYTICS CLOUD |
+
+| **CAMBIO**       | **Descripción**                  | **Estado ** |
+|---------------|-------------------------------------|-----------|
+| Login_code       | Permite al usuario autenticarse     | ✅ Listo   |
