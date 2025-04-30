@@ -11,4 +11,4 @@
 
 | **CAMBIO**       | **Descripción**                  | **Estado ** |
 |---------------|-------------------------------------|-----------|
-| Login_code       | Permite al usuario autenticarse     | ✅ Listo   |
+| Login_code       | diseño de login en android studio     | ✅ Listo   |
